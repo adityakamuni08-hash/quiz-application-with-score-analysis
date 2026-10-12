@@ -1,0 +1,11 @@
+[ ] java -version works (Java 17+)
+[ ] mvn -version works
+[ ] `pom.xml` is visible in the VS Code project root
+[ ] `mvn spring-boot:run` starts successfully
+[ ] Login page opens at http://localhost:8080/
+[ ] Student can take and submit a quiz
+[ ] Result page displays score and percentage
+[ ] Student attempt history is visible after returning to dashboard
+[ ] Admin can add a question
+[ ] Admin dashboard displays attempts and score analysis
+[ ] Explain that login is demo-only and not secure authentication
